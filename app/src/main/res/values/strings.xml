@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TipCalculator</string>
+    <string name="enter_bill_amount">Enter Bill Amount</string>
+</resources>
